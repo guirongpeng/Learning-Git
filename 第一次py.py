@@ -6,7 +6,7 @@ import time
 import requests
 import urllib
 from collections import OrderedDict
-
+# 这是分支test_branch，并且再本地修改
 class Translate:
     def __init__(self):
         self.appid = '20240301001978679'
