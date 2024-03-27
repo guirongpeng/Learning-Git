@@ -6,7 +6,7 @@ import time
 import requests
 import urllib
 from collections import OrderedDict
-
+# 再远程仓库做的修改
 class Translate:
     def __init__(self):
         self.appid = '20240301001978679'
